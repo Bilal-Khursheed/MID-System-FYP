@@ -17,6 +17,12 @@ import AdminPage from "./componets/Common/AdminPage";
 import BreastCancer from "./componets/Common/BreastCancer";
 import BrainTumor from "./componets/Common/BrainTumor";
 import Tuberculosis from "./componets/Common/Tuberculosis";
+
+
+
+
+
+
 import Reportpdf from "./PDFworking/Reportpdf";
 import AdminPortal from "./componets/Pages/AdminPortal";
 import DoctorsPortal from "./componets/Pages/DoctorsPortal";

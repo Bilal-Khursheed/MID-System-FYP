@@ -3,6 +3,14 @@ import Portal from '../Common/portal'
 
 class DoctorsPortal extends Component {
     render() {
+
+      //ull bul kaaa gora jo putha questions kary barha bhen kaaa loraaaa
+
+      //atikaaa naaa maa yawain kisi kothi k bacha  main pahlay bata raha agar bajiii paish ki too main tere ghr war jana haa haa
+
+
+
+      
         return (
           <div>
             <Portal 

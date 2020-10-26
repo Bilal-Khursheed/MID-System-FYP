@@ -13,6 +13,9 @@ app.use(bodyParse.urlencoded({ extended: false }));
 app.post("/add", async (req, res) => {
   const email = req.body.email;
   const fname = req.body.fullName;
+
+
+  
   const lname = req.body.Username;
   const password = req.body.password;
   console.log("email :" + email);

@@ -10,6 +10,9 @@ class Login extends Component {
       email: "",
       password: "",
       auth: false,
+
+
+      
       navigate: false,
       role: 0,
     };

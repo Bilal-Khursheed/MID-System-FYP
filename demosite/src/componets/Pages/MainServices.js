@@ -14,6 +14,9 @@ import Copyright from '../Common/Copyright'
 class MainServices extends Component 
 {
     render()
+
+
+
     {
         return (
           <div>
@@ -28,8 +31,12 @@ class MainServices extends Component
             <Contact />
             <Footer />
             <Copyright />
+            
           </div>
         );
+        //oooorrrrr tu sun gashthiii shela saif kisi madar chood ki bachiiii haan pata haa kyaa karna mujy kyaa nhi soo apnii paish naa karoo   dur maa yawaoooo loriii
+
+      
     }
 }
 export default MainServices;

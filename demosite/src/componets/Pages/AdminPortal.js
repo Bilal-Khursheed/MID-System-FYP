@@ -9,9 +9,13 @@ class AdminPortal extends Component {
             <Portal 
             PortalName="Admin Portal"
             
+
+
+
             showHistory1="true"
             History1="Doctors History"
             showHistory2="true"
+            
             History2="Patients History"
             
             showRequest1="true"

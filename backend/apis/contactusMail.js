@@ -11,6 +11,9 @@ app.use(cors());
 app.use(bodyParse.json());
 app.use(bodyParse.urlencoded({ extended: false }));
 
+
+
+
 app.post("/form", async (req, res) => {
   const htmll = `<p>You have a New contact request </p>
     <h2>Contact Details</h2>

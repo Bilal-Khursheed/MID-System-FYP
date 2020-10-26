@@ -13,6 +13,9 @@ app.get("/check", (req, res) => {
     //this result will match the given id with database id to check result
     const result = results.find((c) => c.status === 1 || c.status === true);
     if (err) {
+
+
+      
       //will send error message if any
       res.send(err);
     } else if (!result) {

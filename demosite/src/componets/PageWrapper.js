@@ -12,6 +12,10 @@ class pageWrapper extends Component {
           id="mainNav"
         >
           <div className="container">
+
+
+
+            
             {/* <Link className="navbar-brand js-scroll-trigger" to="/">
               <img src={Image} alt="" width={70}></img>
             </Link> */}

@@ -19,6 +19,8 @@ class Home extends Component {
           subtitle="Medical Imaging And Diagnoses"
           buttonText="Know More"
           link="/About"
+
+          
           showButton={true}
           image={image}
           
