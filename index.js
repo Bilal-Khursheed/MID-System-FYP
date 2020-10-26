@@ -3,7 +3,6 @@ const bodyParse = require("body-parser");
 const cors = require("cors");
 //var mysql = require("mysql");
 var mysql = require("./backend/connection/connection");
-
 const app = express();
 mysql;
 app.use(express.json({ extended: false }));
